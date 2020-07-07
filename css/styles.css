@@ -1,6 +1,30 @@
 body {
   background-color: #f4f6ff;;
 }
+h1 {
+  color: #127681;
+}
+
+h3 {
+  color: #127681;
+}
+
+p {
+  color: #10375c;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  color: #10375c;
+}
+
+ol {
+  color: #10375c;
+}
+
+table {
+  color: #10375c;
+}
 
 hr {
   display: block;
@@ -14,9 +38,9 @@ hr {
 }
 
 img {
-  height: 225px;
-  border-radius: 108px;
-  background-color: #127681;
-  border-color: #127681;
-  border: 3px solid #127681;
+  height: 220px;
+  border-radius: 110px;
+  background-color: #f3c623;
+  border-color: #f3c623;
+  border: 3px solid #f3c623;
 }
